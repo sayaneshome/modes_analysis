@@ -1,1 +1,4 @@
 
+https://pymolwiki.org/index.php/Symexp
+
+./nolb assembly_24units_ecad_3q2v.pdb -o 24units_ecad -n 10 --hetatm --blocks blocks_24unit.txt -m
